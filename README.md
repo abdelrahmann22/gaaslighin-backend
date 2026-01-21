@@ -93,11 +93,3 @@ The API is prefixed with `/api/v0/`.
 ### Resume
 - `POST /resume`: Upload a resume link.
 - `GET /resume`: Get all resumes.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## 📄 License
-
-This project is licensed under the ISC License.
